@@ -5,6 +5,7 @@ Console tool for convert timestamp (sec) to string date time.
 ### run
 
 `go build ./`
+
 `go install ./`
 
 ### usage
